@@ -109,9 +109,4 @@ Profit!
   3. Push new tag: `git push origin --tags`.
 
 <div align=center>
-
-Made with :heart: by [Rubens Mariuzzo](https://github.com/rmariuzzo).
-
-[MIT license](LICENSE)
-
 </div>
