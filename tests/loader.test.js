@@ -5,9 +5,6 @@ const path = require('path')
 const merge = require('webpack-merge')
 const webpack = require('webpack')
 
-/**
- * Test cases.
- */
 
 describe('laravel-localization-loader', () => {
 
