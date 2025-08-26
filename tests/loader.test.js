@@ -1,9 +1,5 @@
 'use strict'
 
-/**
- * Test dependencies.
- */
-//requirement start
 const tmp = require('tmp')
 const path = require('path')
 const merge = require('webpack-merge')
