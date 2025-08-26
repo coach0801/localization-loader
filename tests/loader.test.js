@@ -48,10 +48,6 @@ describe('laravel-localization-loader', () => {
 })
 
 /**
- * Test utilities.
- */
-
-/**
  * Run webpack with a default configuration.
  * @param {Object} config Optional configuration to be merged.
  * @return {Promise}
